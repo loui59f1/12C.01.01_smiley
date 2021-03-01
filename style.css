@@ -1,0 +1,13 @@
+#face {
+    fill: #f5cb18;
+}
+
+#smile {
+    stroke-width: 5;
+    stroke: black;
+    fill: transparent;
+}
+
+.eye {
+    fill: black;
+}
